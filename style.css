@@ -1,0 +1,227 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: helvetica;
+    box-sizing: border-box;
+}
+p{
+    font-family: sans-serif;
+}
+
+body{
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    background-image: linear-gradient( 179deg,  rgba(0,0,0,1) 5%, rgb(12, 218, 215) 100% );
+}
+h1{
+    font-family: hellvetica;
+}
+img.image{
+    border: 2px solid white;
+    border-radius: 100%;
+    box-shadow: 0px 0px 30px rgb(66, 202, 222);
+    display: block;
+    margin-left: auto;
+     margin-right: auto;
+    width: 250px;
+    margin-top: 80px;
+    margin-bottom: 5px;
+ }
+ div.header{
+    text-align: center;
+    margin-bottom: 20px;
+ }
+ .subtopic1{
+    text-align: center;
+ }
+
+h2.header{
+    text-shadow: 0px 3px rgb(98, 131, 131);
+    margin-top: 0%;
+    text-align: center;
+
+}
+p.descript1{
+    margin-top: 10px;
+    text-align: center;
+}
+figcaption{
+    margin-bottom: 40px;
+    font-size: smaller;
+    margin-top: 5px;
+    text-align: center;
+}
+div.karina{
+    text-align: center;
+  }
+  
+  ul.myUL {
+    display: inline-block;
+    text-align: left;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    background-color: aliceblue;
+  }  
+  .biodata{
+    background-color: rgb(3, 14, 44);
+    background-image: linear-gradient( 179deg,  rgba(0,0,0,1) 40%, rgb(148, 0, 94) 103.9% );
+    width: 100%;
+}
+ div.topic{
+    text-align: center;
+
+  }
+  .subtopic1{
+    margin-top: 60px;
+    background-color: rgb(246, 240, 240);
+  }
+  p.article{
+    margin-top: 10px;
+    margin-left: auto;
+     margin-right: auto;
+    text-align: center;
+    width: 600px;
+    margin-top: 40px;
+    margin-bottom: 0px;
+  }
+  img.image-bio{
+    border: 2px solid white;
+    border-radius: 10%;
+    box-shadow: 0px 0px 30px rgb(213, 0, 195);
+    display: block;
+    margin-left: auto;
+     margin-right: auto;
+    width: 300px;
+    margin-top: 80px;
+    margin-bottom: 0px;
+  }
+  div.about-biodata{
+    text-align: center;
+  }
+  
+  ul.karina-bio {
+    display: inline-block;
+    text-align: left;
+    margin-top: 25px;
+    margin-bottom: 25px;
+  }  
+ div.descript2{
+    text-align: center;
+    }
+    p.article2{
+        display: inline-block;
+        text-align: left;
+        margin-top: 15px;
+        margin-bottom: 60px;
+        margin-left: 80px;
+        margin-right: 60px;
+        text-align: center;
+    }
+  .predebut{
+    background-color: rgb(80, 13, 128);
+    background-image: linear-gradient( 179deg,  rgba(0,0,0,1) 40%, rgb(126, 5, 159) 103.9% );
+    width: 100%;
+  }
+  div.parent{
+    text-align: center;
+}
+
+  .subtopic2{
+     background-color: white;
+  }
+img.image-predebut{
+    border: 5px solid white;
+    border-radius: 30%;
+    box-shadow: 0px 0px 30px rgb(161, 27, 250);
+    display: block;
+    margin-left: auto;
+     margin-right: auto;
+    width: 280px;
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+div.about-article{
+    text-align: center;
+}
+p.article3{
+    margin-left: auto;
+     margin-right: auto;
+    text-align: center;
+    width: 600px;
+    margin-top: 60px;
+    margin-bottom: 10px;
+}
+div.about-predebut{
+    text-align: center;
+}
+  ul.karina-predebut {
+    display: inline-block;
+    text-align: left;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    width: 550px;
+  }  
+  p.article4{
+    display: inline-block;
+    text-align: left;
+    margin-top: 15px;
+    margin-bottom: 60px;
+    margin-left: 80px;
+    margin-right: 60px;
+    text-align: center;
+  }
+  .Aespa{
+    background-color: rgb(80, 13, 128);
+    background-image: linear-gradient( 179deg,  rgba(0,0,0,1) 40%, rgb(0, 53, 126) 103.9% );
+    width: 100%;
+  }
+  div.aespa-about{
+    text-align: center;
+}
+.subtopic3{
+    background-color: white;
+}
+img.image-aespa{
+    border: 5px solid white;
+    border-radius: 10%;
+    box-shadow: 0px 0px 30px rgb(93, 158, 228);
+    display: block;
+    margin-left: auto;
+     margin-right: auto;
+    width: 400px;
+    margin-top: 70px;
+}
+div.about-descript{
+    text-align: center;
+}
+p.article5{
+    display: inline-block;
+    margin-left: auto;
+     margin-right: auto;
+    text-align: center;
+    width: 600px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+p.article6{
+    display: inline-block;
+    margin-left: 60px;
+     margin-right: 60px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    width: 800px;
+}
+.audio{
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+p.article7{
+    display: inline-block;
+    margin-left: 60px;
+     margin-right: 60px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    width: 800px;
+}
